@@ -53,10 +53,12 @@ html {
     color: black;
     background-color: beige;
   }
+
   
   .text-box p {
     margin: 0;
     text-align: left;
+    font-size: x-small;
   }
   
   .text-box span {
