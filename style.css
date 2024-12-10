@@ -30,6 +30,7 @@ html {
   
   .one {
     font-size: 4.5rem;
+    
   }
   
   .two {
@@ -40,6 +41,7 @@ html {
   .three {
     font-size: 3rem;
   }
+
   
   .four .text-box {
     border: 3px solid #aaa;
@@ -48,6 +50,8 @@ html {
     padding: 10px;
     position: relative;
     width: 600px;
+    color: black;
+    background-color: beige;
   }
   
   .text-box p {
